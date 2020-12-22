@@ -8,7 +8,7 @@ DataTracksScrambled=0
 CDTextLength=0 
 
 [Session 1] 
-PreGapMode=2 
+PreGapMode=0 
 PreGapSubC=0 
 
 [Entry 0] 
@@ -76,5 +76,5 @@ PFrame=0
 PLBA=0
 
 [TRACK 1]
-MODE=2
+MODE=0
 INDEX 1=0
