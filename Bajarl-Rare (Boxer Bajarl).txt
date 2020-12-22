@@ -76,5 +76,5 @@ PFrame=0
 PLBA=0
 
 [TRACK 1]
-MODE=2
+MODE=0
 INDEX 1=0
